@@ -2,10 +2,10 @@
 
 
 ## Goals
-Purge potential bias and inconsistencies from data
+•Purge potential bias and inconsistencies from data
 
-Explore dimensionality and determine accurate parameters of model
+•Explore dimensionality and determine accurate parameters of model
 
-Generate model
+•Generate model
 
-Optimize model
+•Optimize model
